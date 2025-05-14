@@ -15,6 +15,7 @@
 - Método de ataque: ``` Site Cloner ```
 - Obtendo o endereço da máquina: ``` ifconfig ```
 - URL para clone: http://www.facebook.com
+-  sites atualmente tem uma proteção contra clone,Utilize o windows 7 ou XP para realizar o teste!
 
 ### Resutados
 
